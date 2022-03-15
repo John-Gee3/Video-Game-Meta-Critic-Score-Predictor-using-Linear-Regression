@@ -5,4 +5,8 @@ Data review does show some interesting data (such as Valve being completely outs
 
 Data from kaggle (https://www.kaggle.com/xcherry/games-of-all-time-from-metacritic), cleaned, labels encoded and then a linear regression model from sklearn was trained on the data. Ultimately the accuracy shows linear regression with this data set does not do well predicting the MetaCritic score. The argument can be made that review scores can be very subjective, and the features we are using cannot accurately predict how a game will be received. Nonetheless, it was a fun example of trying to use machine learning to create a predictive model
 
-![chart1](score_genre.png)
+![chart1](score_Genre.png)
+
+![chart1](score_publisher.png)
+
+![chart1](score_rating.png)
